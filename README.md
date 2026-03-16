@@ -60,7 +60,8 @@ The `load` command currently works with files written by `save --internal`.
 ```bash
 python -m unittest discover tests
 ```
+## Author
+Taewook Kang (laputa99999@gmail.com)
 
 ## License
-
-This repository does not currently include a separate license file. If you plan to distribute or publish the project, add an explicit license that matches your intended use.
+MIT License
