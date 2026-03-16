@@ -3,7 +3,7 @@
 Open B-Rep CLI is a lightweight command-line project for experimenting with B-Rep Boundary Representation modeling. It focuses on a half-edge topology structure, Micro Euler Operators, sample model generation, and STEP export through text-based commands.
 
 <p align="center">
-<img src="https://github.com/mac999/open_brep_cli/blob/main/brep.gif" height="400"></img>
+<img src="https://github.com/mac999/open_brep_cli/blob/main/brep.gif" height="350"></img>
 </p>
 
 ## Purpose
